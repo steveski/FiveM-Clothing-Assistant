@@ -60,7 +60,7 @@
                          dd:DragDrop.DragHandler="{Binding}" />
             </DockPanel>
 
-            <StackPanel Grid.Column="4" Grid.Row="0" Grid.RowSpan="3"></StackPanel>
+            <StackPanel Grid.Column="4" Grid.Row="0" Grid.RowSpan="3" Margin="10px"></StackPanel>
 
         </Grid>
 
